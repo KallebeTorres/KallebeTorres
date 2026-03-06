@@ -104,7 +104,7 @@ Spring Boot e bancos de dados relacionais.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KallebeTorres&layout=compact&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KallebeTorres&layout=compact&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=" 
   />
 
 </p>
